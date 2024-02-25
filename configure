@@ -1,4 +1,4 @@
-AC_INIT([passgen], [0.1], [yakaras])
+AC_INIT([passgen], [0.1], [yakaras@yakaras.com])
 AM_INIT_AUTOMAKE
 AC_PROG_CC
 AC_CONFIG_FILES([Makefile])
