@@ -1,5 +1,0 @@
-AC_INIT([passgen], [0.1], [yakaras])
-AM_INIT_AUTOMAKE
-AC_PROG_CC
-AC_CONFIG_FILES([Makefile])
-AC_OUTPUT
